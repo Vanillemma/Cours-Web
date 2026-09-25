@@ -1,0 +1,17 @@
+# Fichiers de logs
+*.log
+*.log.gz
+*.gz
+
+# Résultats générés
+resultats.json
+analyse.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Système / IDE
+.DS_Store
+.vscode/
+.idea/
